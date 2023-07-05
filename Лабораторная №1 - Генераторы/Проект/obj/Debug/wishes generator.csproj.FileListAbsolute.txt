@@ -1,0 +1,8 @@
+C:\Users\Pists\source\repos\wishes generator\bin\Debug\wishes generator.exe.config
+C:\Users\Pists\source\repos\wishes generator\bin\Debug\wishes generator.exe
+C:\Users\Pists\source\repos\wishes generator\bin\Debug\wishes generator.pdb
+C:\Users\Pists\source\repos\wishes generator\obj\Debug\wishes generator.csprojAssemblyReference.cache
+C:\Users\Pists\source\repos\wishes generator\obj\Debug\wishes generator.csproj.ResolveComReference.cache
+C:\Users\Pists\source\repos\wishes generator\obj\Debug\wishes generator.csproj.CoreCompileInputs.cache
+C:\Users\Pists\source\repos\wishes generator\obj\Debug\wishes generator.exe
+C:\Users\Pists\source\repos\wishes generator\obj\Debug\wishes generator.pdb

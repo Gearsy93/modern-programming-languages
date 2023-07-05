@@ -1,0 +1,15 @@
+/Volumes/C/Users/kolya59/source/repos/Set/Set/obj/Debug/Set.csproj.CoreCompileInputs.cache
+E:/Яндекс.Диск/Projects/Set/Set/bin/Debug/Set.exe.config
+E:/Яндекс.Диск/Projects/Set/Set/obj/Debug/Set.exe
+E:/Яндекс.Диск/Projects/Set/Set/obj/Debug/Set.pdb
+Z:\Users\kolya59\Yandex.Disk.localized\Projects\Set\Set\bin\Debug\Set.exe.config
+Z:\Users\kolya59\Yandex.Disk.localized\Projects\Set\Set\bin\Debug\Set.exe
+Z:\Users\kolya59\Yandex.Disk.localized\Projects\Set\Set\bin\Debug\Set.pdb
+Z:\Users\kolya59\Yandex.Disk.localized\Projects\Set\Set\obj\Debug\Set.csproj.CoreCompileInputs.cache
+Z:\Users\kolya59\Yandex.Disk.localized\Projects\Set\Set\obj\Debug\Set.exe
+Z:\Users\kolya59\Yandex.Disk.localized\Projects\Set\Set\obj\Debug\Set.pdb
+Z:\Users\kolya59\Yandex.Disk.localized\Projects\Set\Set\obj\Debug\Set.csprojResolveAssemblyReference.cache
+E:\Яндекс.Диск\Projects\Set\Set\bin\Debug\Set.exe.config
+E:\Яндекс.Диск\Projects\Set\Set\obj\Debug\Set.exe
+E:\Яндекс.Диск\Projects\Set\Set\obj\Debug\Set.pdb
+E:\Яндекс.Диск\Projects\Set\Set\obj\Debug\Set.csprojResolveAssemblyReference.cache

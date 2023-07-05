@@ -1,0 +1,5 @@
+c:\users\иван\documents\visual studio 2013\Projects\Интерфейс\Интерфейс\bin\Debug\Интерфейс.dll
+c:\users\иван\documents\visual studio 2013\Projects\Интерфейс\Интерфейс\bin\Debug\Интерфейс.pdb
+c:\users\иван\documents\visual studio 2013\Projects\Интерфейс\Интерфейс\obj\Debug\Интерфейс.csprojResolveAssemblyReference.cache
+c:\users\иван\documents\visual studio 2013\Projects\Интерфейс\Интерфейс\obj\Debug\Интерфейс.dll
+c:\users\иван\documents\visual studio 2013\Projects\Интерфейс\Интерфейс\obj\Debug\Интерфейс.pdb

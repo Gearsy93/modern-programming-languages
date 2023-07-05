@@ -1,0 +1,13 @@
+C:\Users\Pists\source\repos\ParadigmC\ParadigmC\bin\Debug\netcoreapp3.1\ParadigmC.exe
+C:\Users\Pists\source\repos\ParadigmC\ParadigmC\bin\Debug\netcoreapp3.1\ParadigmC.deps.json
+C:\Users\Pists\source\repos\ParadigmC\ParadigmC\bin\Debug\netcoreapp3.1\ParadigmC.runtimeconfig.json
+C:\Users\Pists\source\repos\ParadigmC\ParadigmC\bin\Debug\netcoreapp3.1\ParadigmC.runtimeconfig.dev.json
+C:\Users\Pists\source\repos\ParadigmC\ParadigmC\bin\Debug\netcoreapp3.1\ParadigmC.dll
+C:\Users\Pists\source\repos\ParadigmC\ParadigmC\bin\Debug\netcoreapp3.1\ParadigmC.pdb
+C:\Users\Pists\source\repos\ParadigmC\ParadigmC\obj\Debug\netcoreapp3.1\ParadigmC.csprojAssemblyReference.cache
+C:\Users\Pists\source\repos\ParadigmC\ParadigmC\obj\Debug\netcoreapp3.1\ParadigmC.AssemblyInfoInputs.cache
+C:\Users\Pists\source\repos\ParadigmC\ParadigmC\obj\Debug\netcoreapp3.1\ParadigmC.AssemblyInfo.cs
+C:\Users\Pists\source\repos\ParadigmC\ParadigmC\obj\Debug\netcoreapp3.1\ParadigmC.csproj.CoreCompileInputs.cache
+C:\Users\Pists\source\repos\ParadigmC\ParadigmC\obj\Debug\netcoreapp3.1\ParadigmC.dll
+C:\Users\Pists\source\repos\ParadigmC\ParadigmC\obj\Debug\netcoreapp3.1\ParadigmC.pdb
+C:\Users\Pists\source\repos\ParadigmC\ParadigmC\obj\Debug\netcoreapp3.1\ParadigmC.genruntimeconfig.cache
